@@ -1,0 +1,2 @@
+# GoLeetCode
+train LeetCode 
